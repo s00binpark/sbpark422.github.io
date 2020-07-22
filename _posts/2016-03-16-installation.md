@@ -1,6 +1,5 @@
 ---
 layout: post
-#date: 2016-03-16 08:34
 title: "Education"
 category:
 tags:
