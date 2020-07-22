@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 	<i class="fa fa-university"></i> Honors and Awards
+title: 	<i class="fa fa-trophy" aria-hidden="true"></i> Honors and Awards
 category:
 tags:
 ---
