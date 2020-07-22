@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2016-03-20 12:36
+#date: 2016-03-20 12:36
 title: "Documentation - Configuration & First Steps"
 description: Basic information about the Steve.
 comments: false
-category: 
+category:
 - docs
 - help
 tags:
@@ -38,15 +38,15 @@ All configuration options are in the <code>_config.yml</code> file.
 
 ##### Social Accounts
 * **social_networks**: Here you can find the list of all the available social networks that you can currently use. Of course you can always add a new one by yourself or ask for it to be available in the next version of the theme. If you don't want a specific social network to be seen, just leave the url value empty or delete the line.
- 
+
 **Important:** Do not change the names of the social networks!
 
 ##### Modules Settings
 One thing to remember - 1 is **on**, 0 is **off**.
 
-* **show_categories**: If it is on and you've added categories in the post itself the categories will be visible. If it is off and you've added categories in the post they will be hidden. This option is helpful if you want to turn on/off categories for all your posts at once. 
-* **show_tags**: If it is on and you've added tags in the post itself the tags will be visible. If it is off and you've added tags in the post they will be hidden.  This option is helpful if you want to turn on/off tags for all your posts at once. 
-* **show_email**: If this is turned on and you've entered an email value in **email**, an email icon will appear next to your social media accounts and all your readers will be able to contact you. 
+* **show_categories**: If it is on and you've added categories in the post itself the categories will be visible. If it is off and you've added categories in the post they will be hidden. This option is helpful if you want to turn on/off categories for all your posts at once.
+* **show_tags**: If it is on and you've added tags in the post itself the tags will be visible. If it is off and you've added tags in the post they will be hidden.  This option is helpful if you want to turn on/off tags for all your posts at once.
+* **show_email**: If this is turned on and you've entered an email value in **email**, an email icon will appear next to your social media accounts and all your readers will be able to contact you.
 * **show_rss**: If this is turned on, a new RSS button will appear in the sidebar next to your social media accounts.
 * **show_comments**: If it is on and you've added <code>comments: true</code> in the post itself the comments will be visible. If it is off and you've added <code>comments: true</code> in the post the comments will be hidden. This option is helpful if you want to turn on/off comments for all your posts at once.
 * **show_menu**: If it is on the main menu will be visible.
@@ -74,7 +74,7 @@ These options are pretty important, so take a closer look. If you experience any
 * **paginate**: You should enter a number that stands for the number of posts per page.
 * **paginate_path**: The default path is <code>/page:num/</code>, so for example if you go to second page you will see something like this <code>http://mysite.com/page2/</code>.
 
-**Important Note:** Pagination is currently working only on home page due to Jekyll limitations. 
+**Important Note:** Pagination is currently working only on home page due to Jekyll limitations.
 
 ##### Conversion
 * **markdown**: Choose your Markdown renderer. Different Markdown renderers supported by Jekyll sometimes have extra options available. I suggest to stick with the default.
@@ -90,7 +90,7 @@ If you need extra help, just check out the [official Jekyll documentation](https
 <dl>
 	<dt>How to change your default theme color?</dt>
 	<dd>Just go to <code>/assets/partials/_vars.scss</code> and change the color of the <code>$primary-color</code> variable.</dd>
-	
+
 	<dt>How Facebook knows which image to use for sharing?</dt>
 	<dd>By default the script gets the first image in the post so take that in mind when you write a blog post.</dd>
 </dl>
