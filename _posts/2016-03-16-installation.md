@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 	<i class="fas fa-university"></i> Education
+title: 	<i class="fa fa-university"></i> Education
 category:
 tags:
 ---
