@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 	<i class="fa fa-university"></i> Experience
+title: 	<i class="fa fa-user" aria-hidden="true"></i> Experience
 category:
 tags:
 ---
