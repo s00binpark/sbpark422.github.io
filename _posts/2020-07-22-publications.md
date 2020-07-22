@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 	<i class="fa fa-university"></i> Publications
+title: 	<i class="fas fa-scroll"></i> Publications
 category:
 tags:
 ---
