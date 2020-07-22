@@ -5,12 +5,9 @@ title: "Documentation - Configuration & First Steps"
 description: Basic information about the Steve.
 comments: false
 category:
-- docs
-- help
+
 tags:
-- documentation
-- steve
-- jekyll
+
 ---
 
 ### Configuration
