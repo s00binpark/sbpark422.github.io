@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<iframe src="../../assets/svg/university.svg" aria-label="true"></iframe> Education"
+title: <iframe src="../../assets/svg/university.svg" aria-label="true"></iframe> "Education"
 category:
 tags:
 ---
