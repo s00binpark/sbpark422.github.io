@@ -1,13 +1,11 @@
 ---
 layout: post
 #date: 2016-03-20 12:36
-title: "Documentation - Configuration & First Steps"
+title: "Research Interest"
 description: Basic information about the Steve.
 comments: false
 category:
-
 tags:
-
 ---
 
 ### Configuration
