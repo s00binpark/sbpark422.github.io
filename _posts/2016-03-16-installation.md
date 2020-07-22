@@ -1,19 +1,18 @@
 ---
 layout: post
-date: 2016-03-16 08:34
-title: "Installation"
-category: 
-- docs
-- help
+#date: 2016-03-16 08:34
+title: "Education"
+category:
 tags:
-- installation
-- steve
-- jekyll
 ---
 
 <figure class="aligncenter">
     <img src="https://snipcartweb-10f3.kxcdn.com/media/all/9570/snipcart-static-site-ecommerce-jekyll.png" />
 </figure>
+
+
+##### Ewha Womans University, Seoul, Republic of Korea
+* Bachelor of Science in Computer Science & Engineering
 
 I assume you have already downloaded and installed Ruby. Here's what you need to do next:
 

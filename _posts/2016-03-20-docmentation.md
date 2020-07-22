@@ -1,7 +1,7 @@
 ---
 layout: post
 #date: 2016-03-20 12:36
-title: "Research Interest"
+title: "Research Interests"
 description: Basic information about the Steve.
 comments: false
 category:
