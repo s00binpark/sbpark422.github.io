@@ -1,8 +1,6 @@
 ---
 layout: post
-title: 	<h2>
-            <i class src="../../assets/svg/university.svg" aria-hidden="true"></i>Education
-        </h2>
+title: 	<i class="fa fa-camera"></i>Education
 category:
 tags:
 ---
