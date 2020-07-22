@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 	<i class="fa fa-university"></i> Education
+title: 	<i class="fa fa-university"></i> Honors and Awards
 category:
 tags:
 ---
