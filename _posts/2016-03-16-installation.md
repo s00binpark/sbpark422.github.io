@@ -11,13 +11,15 @@ tags:
 </figure>
 -->
 
-##### Ewha Womans University, Seoul, Republic of Korea
+##### Ewha Womans University, Seoul, Republic of Korea (2016 - 2020)
 * Bachelor of Science in Computer Science & Engineering
+
+##### Lancaster University, Lancaster, United Kingdom (2018)
+* Exchange Student
+
 <!---
 * **name**: Your name.
 * **job_title**: Your job title.
--->
-
 
 I assume you have already downloaded and installed Ruby. Here's what you need to do next:
 
@@ -27,3 +29,4 @@ I assume you have already downloaded and installed Ruby. Here's what you need to
 4. Run <code>bundle install</code>.
 5. If you want to access and customize the theme, use <code>bundle exec jekyll serve</code>. This way it will be accessible on <code>http://localhost:4000</code>.
 6. Upload the content of the compiled <code>_site</code> folder on your host server.
+-->
