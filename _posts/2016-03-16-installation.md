@@ -5,14 +5,19 @@ title: "Education"
 category:
 tags:
 ---
-
+<!---
 <figure class="aligncenter">
     <img src="https://snipcartweb-10f3.kxcdn.com/media/all/9570/snipcart-static-site-ecommerce-jekyll.png" />
 </figure>
-
+-->
 
 ##### Ewha Womans University, Seoul, Republic of Korea
 * Bachelor of Science in Computer Science & Engineering
+<!---
+* **name**: Your name.
+* **job_title**: Your job title.
+-->
+
 
 I assume you have already downloaded and installed Ruby. Here's what you need to do next:
 
