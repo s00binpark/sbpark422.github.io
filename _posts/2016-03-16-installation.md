@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 	<h2>
-            <iframe src="../../assets/svg/university.svg" aria-hidden="true"></iframe>Education
+            <i class src="../../assets/svg/university.svg" aria-hidden="true"></i>Education
         </h2>
 category:
 tags:
