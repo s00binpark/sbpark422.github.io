@@ -12,7 +12,7 @@ tags:
 
 ##### Dean’s List, Ewha Womans University
 *
-##### <a href="https://sbpark422.github.io/resource/HA01.pdf" title="Title">Excellence Award</a> in Hanium ICT mentoring Competition, Korea Software Congress (KSC 2018)
+##### <a href="https://sbpark422.github.io/resource/HA01.pdf" role="button">Excellence Award</a> in Hanium ICT mentoring Competition, Korea Software Congress (KSC 2018)
 ##### Dean’s List, Ewha Womans University
 ##### Dean’s List, Ewha Womans University
 ##### Dean’s List, Ewha Womans University
