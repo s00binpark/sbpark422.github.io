@@ -11,7 +11,7 @@ tags:
 -->
 
 ##### Dean’s List, Ewha Womans University
-* 
+*
 <!--[Excellence Award](https://sbpark422.github.io/resource/HA01.pdf) in Hanium ICT mentoring Competition-->
 ##### Excellence Award in Hanium ICT mentoring Competition
 * Korea Software Congress (KSC 2018)
@@ -19,8 +19,8 @@ tags:
 * Department of Computer Science and Engineering, Ewha Womans University
 ##### Participation Award, 2019 Ewha Engineering Capstone Design Contest
 * Center for Innovation in Engineering Education, Ewha Womans University
-##### Dean’s List, Ewha Womans University
-##### Dean’s List, Ewha Womans University
+##### Silver Prize for 2018 AI School (Big Data Acquisition, Analysis, & Inference)
+* Korea University and KISTI 
 
 
 
