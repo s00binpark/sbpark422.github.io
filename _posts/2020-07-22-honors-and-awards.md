@@ -10,11 +10,15 @@ tags:
 </figure>
 -->
 
-##### Ewha Womans University, Seoul, Republic of Korea (2016 - 2020)
-* Bachelor of Science in Computer Science & Engineering
+##### Dean’s List, Ewha Womans University
+*
+##### <a href="http://sbpark422.github.io/resource/HA01.pdf" title="Title">Excellence Award</a> in Hanium ICT mentoring Competition, Korea Software Congress (KSC 2018)
+##### Dean’s List, Ewha Womans University
+##### Dean’s List, Ewha Womans University
+##### Dean’s List, Ewha Womans University
 
-##### Lancaster University, Lancaster, United Kingdom (2018)
-* Exchange Student
+
+
 
 <!---
 * **name**: Your name.
