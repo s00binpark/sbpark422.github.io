@@ -10,12 +10,8 @@ tags:
 </figure>
 -->
 
-##### Ewha Womans University, Seoul, Republic of Korea (2016 - 2020)
-* Bachelor of Science in Computer Science & Engineering
-
-##### Lancaster University, Lancaster, United Kingdom (2018)
-* Exchange Student
-
+##### Research Intern at Human Computer Interaction Lab, Ewha Womans University ( Jul. 2019 - *Current* )
+* Advisor : Prof. Uran Oh
 <!---
 * **name**: Your name.
 * **job_title**: Your job title.
