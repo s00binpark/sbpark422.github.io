@@ -10,19 +10,17 @@ tags:
 </figure>
 -->
 
-#### Dean’s List, Ewha Womans University
-*
-<!--
-#### [Excellence Award](https://sbpark422.github.io/resource/HA01.pdf) in Hanium ICT mentoring Competition
--->
-#### Excellence Award in Hanium ICT mentoring Competition
+##### Dean’s List, Ewha Womans University
+* 
+<!--[Excellence Award](https://sbpark422.github.io/resource/HA01.pdf) in Hanium ICT mentoring Competition-->
+##### Excellence Award in Hanium ICT mentoring Competition
 * Korea Software Congress (KSC 2018)
-#### Excellence Award, 2019 Computer Engineering Graduation Project
+##### Excellence Award, 2019 Computer Engineering Graduation Project
 * Department of Computer Science and Engineering, Ewha Womans University
-#### Participation Award, 2019 Ewha Engineering Capstone Design Contest
+##### Participation Award, 2019 Ewha Engineering Capstone Design Contest
 * Center for Innovation in Engineering Education, Ewha Womans University
-#### Dean’s List, Ewha Womans University
-#### Dean’s List, Ewha Womans University
+##### Dean’s List, Ewha Womans University
+##### Dean’s List, Ewha Womans University
 
 
 
