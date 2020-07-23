@@ -17,7 +17,7 @@ tags:
 -->
 #### Excellence Award in Hanium ICT mentoring Competition
 * Korea Software Congress (KSC 2018)
-#### Excellence Award, Computer Engineering Graduation Project
+#### Excellence Award, 2019 Computer Engineering Graduation Project
 * Department of Computer Science and Engineering, Ewha Womans University
 #### Participation Award, 2019 Ewha Engineering Capstone Design Contest
 * Center for Innovation in Engineering Education, Ewha Womans University
