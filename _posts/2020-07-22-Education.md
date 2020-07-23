@@ -13,7 +13,7 @@ tags:
 ##### Ewha Womans University, Seoul, Republic of Korea (2016 - 2020)
 * Bachelor of Science in Computer Science & Engineering
 
-##### Lancaster University, Lancaster, United Kingdom (2018)
+##### Lancaster University, Lancaster, United Kingdom (2018 Michaelmas Term)
 * Exchange Student
 
 <!---
