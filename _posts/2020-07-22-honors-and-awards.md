@@ -19,8 +19,8 @@ tags:
 * Department of Computer Science and Engineering, Ewha Womans University
 ##### Participation Award, 2019 Ewha Engineering Capstone Design Contest
 * Center for Innovation in Engineering Education, Ewha Womans University
-##### Silver Prize for 2018 AI School (Big Data Acquisition, Analysis, & Inference)
-* Korea University and KISTI 
+##### Silver Prize, 2018 AI School (Big Data Acquisition, Analysis, & Inference)
+* Korea University and KISTI
 
 
 
