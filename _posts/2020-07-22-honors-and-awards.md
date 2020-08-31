@@ -24,13 +24,13 @@ tags:
 ##### Admission Scholarship (merit-based?)
 * full tuition for 1 year
 * Spring 2016, Fall 2016
-#### 박수웅(한수) Scholarship
+##### 박수웅(한수) Scholarship
 * Spring 2017
-#### 전공리더십 Scholarship
+##### 전공리더십 Scholarship
 * Fall 2017
-#### 황유정 Scholarship
+##### 황유정 Scholarship
 * Fall 2017
-#### 단과대학특성화 Scholarship
+##### 단과대학특성화 Scholarship
 * Fall 2019
 
 
