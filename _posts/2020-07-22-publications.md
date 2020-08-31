@@ -38,7 +38,9 @@ https://www.koreascience.or.kr/article/JAKO201215657176027.page
 ####
 -->
 
-##### Naeun Kim, Dayoung Kim, Minji Kim, Soobin Park. 2018. Driver Drowsiness Detection System based on Deep Learning Technique. Korea Software Congress 2018. [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07614298){:target="_blank"}
+* Driver Drowsiness Detection System based on Deep Learning Technique.
+Naeun Kim, Dayoung Kim, Minji Kim, Soobin Park.
+Korea Software Congress 2018. [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07614298){:target="_blank"}.
 
 
 <!---

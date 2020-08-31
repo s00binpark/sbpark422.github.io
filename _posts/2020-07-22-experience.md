@@ -10,5 +10,5 @@ tags:
 </figure>
 -->
 
-##### Research Intern at Human Computer Interaction Lab, Ewha Womans University ( Jul. 2019 - *Current* )
+###### Research Intern at Human Computer Interaction Lab, Ewha Womans University ( Jul. 2019 - *Current* )
 * Advisor : Prof. Uran Oh
