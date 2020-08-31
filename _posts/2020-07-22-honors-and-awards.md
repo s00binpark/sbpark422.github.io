@@ -10,9 +10,10 @@ tags:
 </figure>
 -->
 
+<
 ###### Dean’s List, Ewha Womans University
 * Spring 2016, Fall 2016, Spring 2017, Spring 2018, Spring 2019, Fall 2019  
-<!--[Excellence Award](https://sbpark422.github.io/resource/HA01.pdf) in Hanium ICT mentoring Competition-->
+* **[Excellence Award](https://sbpark422.github.io/resource/HA01.pdf) in Hanium ICT mentoring Competition** Korea Software Congress (KSC 2018)
 ###### Excellence Award in Hanium ICT mentoring Competition
 * Korea Software Congress (KSC 2018)
 ###### Excellence Award, 2019 Computer Engineering Graduation Project
@@ -32,7 +33,6 @@ tags:
 * Fall 2017
 ###### 단과대학특성화 Scholarship
 * Fall 2019
-
 
 
 <!---
