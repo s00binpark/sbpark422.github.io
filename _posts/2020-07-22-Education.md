@@ -11,7 +11,7 @@ tags:
 -->
 
 ##### Ewha Womans University, Seoul, Republic of Korea (2016 - 2020)
-* Bachelor of Science in Computer Science & Engineering
+* Bachelor of Science in Computer Science & Engineering (Summa Cum Laude)
 
 ##### Lancaster University, Lancaster, United Kingdom (2018 Michaelmas Term)
 * Exchange Student

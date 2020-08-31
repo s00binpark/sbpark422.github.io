@@ -10,11 +10,18 @@ tags:
 </figure>
 -->
 
-##### Ewha Womans University, Seoul, Republic of Korea (2016 - 2020)
-* Bachelor of Science in Computer Science & Engineering
+<!---
+#### Soobin Park. 2020. Supporting Selfie Editing Experiences for People with Visual Impairments. In The 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’20), October 26–28, 2020, Virtual Event, Greece. ACM, New York, NY, USA, 3 pages. https://doi.org/10.1145/ 3373625.3417082
+#### Driver Drowsiness Detection System based on Deep Learning Technique
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07614298
+Proceedings of the Korea Computer Congress 2018
+KOREA INFORMATION SCIENCE SOCIETY
 
-##### Lancaster University, Lancaster, United Kingdom (2018)
-* Exchange Student
+
+
+
+####
+-->
 
 <!---
 * **name**: Your name.

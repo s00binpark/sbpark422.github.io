@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 	<i class="fa fa-trophy" aria-hidden="true"></i> Honors and Awards
+title: 	<i class="fa fa-trophy" aria-hidden="true"></i> Grants, Honors and Awards
 category:
 tags:
 ---
@@ -11,7 +11,7 @@ tags:
 -->
 
 ##### Dean’s List, Ewha Womans University
-*
+* Spring 2016, Fall 2016, Spring 2017, Spring 2018, Spring 2019, Fall 2019  
 <!--[Excellence Award](https://sbpark422.github.io/resource/HA01.pdf) in Hanium ICT mentoring Competition-->
 ##### Excellence Award in Hanium ICT mentoring Competition
 * Korea Software Congress (KSC 2018)
@@ -21,7 +21,17 @@ tags:
 * Center for Innovation in Engineering Education, Ewha Womans University
 ##### Silver Prize, 2018 AI School (Big Data Acquisition, Analysis, & Inference)
 * Korea University and KISTI
-
+##### Admission Scholarship (merit-based?)
+* full tuition for 1 year
+* Spring 2016, Fall 2016
+#### 박수웅(한수) Scholarship
+* Spring 2017
+#### 전공리더십 Scholarship
+* Fall 2017
+#### 황유정 Scholarship
+* Fall 2017
+#### 단과대학특성화 Scholarship
+* Fall 2019
 
 
 
