@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Daeun SONG
-  email:             daeun7250@gmail.com
+  name:              Soo Bin Park
+  email:             sbpark422@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:            
- 
+  about:
+
 
   # This photo will be used in the about section
   picture:
@@ -23,8 +23,8 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    email:             daeun7250@gmail.com
-    github:            daeunSong
+    email:             sbpark422@gmail.com
+    github:            sbpark422
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
